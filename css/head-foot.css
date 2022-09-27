@@ -1,0 +1,91 @@
+
+header {
+    padding: 2rem;
+}
+
+.head-logos {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+/*
+.head-logos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    margin-right: 8rem;
+    margin-left: 8rem;
+}
+
+/*
+    ingenieria
+    navbar-brand
+*/
+.navbar-brand2 {
+    margin-top: 1rem;
+    line-height: 1em;
+    padding: 0; /* padding left*/
+}
+.navbar-brand2 {
+    /* margin-top: 10px; */
+    border-bottom: none;
+}
+
+/*
+    sistemas
+    navbar-nav
+*/
+/*
+.navbar-nav2 {
+    border-top: none;
+    float: none;
+    width: 100%;
+}
+
+header .navbar-nav2 > li  {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+header .navbar-nav2 > li  {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+header  .navbar-nav2 > li > a {
+    padding-bottom: 6px;
+    padding-top: 5px;
+    margin-left: 2px;
+    line-height: 30px;
+	font-weight: 700;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+header .navbar-default .navbar-nav2 > .open > a,
+header .navbar-default .navbar-nav2 > .open > a:hover,
+header .navbar-default .navbar-nav2 > .open > a:focus {
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+header .navbar-collapse  ul.navbar-nav2 {
+    float: right;
+    margin-right: 0;
+}*/
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#carta {
+    height: 30rem;
+    width: 321px;
+}
